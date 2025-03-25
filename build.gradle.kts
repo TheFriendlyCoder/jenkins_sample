@@ -30,7 +30,7 @@ dependencies {
     implementation("org.jenkins-ci.main:jenkins-core:2.498")
     implementation("org.jenkins-ci.plugins.workflow:workflow-cps:4018.vf02e01888da_f")
     // https://mvnrepository.com/artifact/org.jenkins-ci.plugins.workflow/workflow-job
-    implementation("org.jenkins-ci.plugins.workflow:workflow-job:1505.vea_4b_20a_4a_495")
+    implementation("org.jenkins-ci.plugins.workflow:workflow-job:1505.vea_4b_20a_4a_495@jar")
     // https://mvnrepository.com/artifact/org.jenkins-ci.plugins.workflow/workflow-api
     implementation("org.jenkins-ci.plugins.workflow:workflow-api:1363.v03f731255494")
     // https://mvnrepository.com/artifact/org.jenkins-ci.plugins.workflow/workflow-support
